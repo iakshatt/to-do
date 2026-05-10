@@ -36,21 +36,7 @@ A modern and responsive To-Do List web application built using **HTML, CSS, and 
 
 ---
 
-## ⚡ How to Run
 
-1. Download or clone this repository
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-```
-
-2. Open the project folder
-
-3. Double click `index.html`
-
-OR
-
-Open with Live Server in VS Code.
 
 ---
 
